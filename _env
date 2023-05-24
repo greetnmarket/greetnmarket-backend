@@ -1,0 +1,24 @@
+
+
+# CREDENTIALS
+FIREBASE_CREDENTIAL ="../firebaseCert.json" # PATH OF THE CERTIFICATE
+JWT_PRIVATE_KEY="sbdaskjdhaLKSBDKJKABnsdbLSBDALKJSbdalhHDBSkabdlkasdb"
+MONGO_DB_URL="mongodb+srv://greetnmarket@cluster0.ugrchpx.mongodb.net/?retryWrites=true&w=majority"
+MONGO_DB_USERNAME="greetnmarket"
+MONGO_DB_PASSWORD="test123"
+AWS_ACCESS_KEY_ID="AKIA3PRBWOQK4O64LO6S"
+AWS_SECRET_ACCESS_KEY="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"
+AWS_REGION="ap-south-1"
+PROFILE_PICTURE_ACCESS_POINT="greet-n-meet-profile-d69r4k83g6tfgdesr1b9hsi9kiseqaps3b-s3alias"
+BUSINESS_PICTURE_ACCESS_POINT="greet-n-meet-busines-rusrmydg44fek9n4ibtkzj7aofee1aps3b-s3alias"
+COMMON_PICTURE_ACCESS_POINT="greet-n-meet-common-sbgtuh67d9ytkq3kmhfuykz4ri8esaps3b-s3alias"
+COMMON_VIDEO_ACCESS_POINT="greet-n-market-commo-3p8ed4bdcabmsyn3em97m8tbdbs1waps3b-s3alias"
+USER_SPECIFIC_PICTURE_ACCESS_POINT="greet-n-meet-user-sp-1maueuxtqx8o81mnk434hktotkm71aps3b-s3alias"
+BANNER_PICTURE_ACCESS_POINT="greet-n-meet-banner-8jw7kkoutf6egkaygoojk7499tdrkaps3a-s3alias"
+RAZORPAY_API_KEY="rzp_test_ExcWei1w5FQtXF"
+RAZORPAY_API_SECRET="DLYpWHplMaPN65R0k7go7D4B"
+
+#CONFIGURAION
+SIGNED_URL_EXPIRATION_TIME="3600"
+PAYMENT_AMOUNT="300000"
+PAYMENT_CURRENCY="INR"
